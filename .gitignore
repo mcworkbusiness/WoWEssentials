@@ -1,0 +1,28 @@
+# Cursor/IDE specific files
+.cursor/
+.vscode/
+.idea/
+*.sublime-*
+.vs/
+
+# Credentials and tokens
+*.token
+*.key
+*.pem
+*.env
+
+# Temporary and backup files
+*.bak
+*.old
+*.tmp
+*.temp
+*.swp
+*~
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
