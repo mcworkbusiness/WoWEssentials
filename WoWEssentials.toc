@@ -1,0 +1,22 @@
+## Interface: 100200
+## Title: WoW Essentials
+## Notes: A comprehensive all-in-one addon combining UI customization, boss alerts, custom cues, and combat stats
+## Author: WoWaddonAssistant
+## Version: 0.1
+## SavedVariables: WoWEssentialsDB
+
+# Core files
+Core.lua
+Config.lua
+
+# Modules
+Modules\UI.lua
+Modules\Alerts.lua
+Modules\Cues.lua
+Modules\Stats.lua
+
+# Documentation
+# API_Documentation.lua - Not loaded, for reference only
+
+# Initialize
+Init.lua 
